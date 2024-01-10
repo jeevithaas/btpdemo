@@ -21,7 +21,7 @@
 
 ## product
 
-A Fiori application. new change included
+A Fiori application. new changes are included
 
 ### Starting the generated app
 
